@@ -1,0 +1,5 @@
+# Purpose-selected Flathub app IDs
+org.gimp.GIMP
+com.obsproject.Studio
+org.mozilla.firefox
+com.opera.opera-gx
