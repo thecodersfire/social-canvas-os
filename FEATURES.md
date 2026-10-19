@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/social-canvas-os-workspace features/social-canvas-os-plan features/social-canvas-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for social media content planning:
+
+1. **Inkscape** — org.inkscape.Inkscape
+2. **Krita** — org.kde.krita
+3. **Kdenlive** — org.kde.kdenlive
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
